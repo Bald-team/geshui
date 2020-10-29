@@ -12,7 +12,9 @@
         android:id="@+id/jieguo"
         android:layout_width="match_parent"
         android:layout_height="67dp"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:text="个人所得税计算器"
+        android:textColor="#000000"/>
     <EditText
         android:id="@+id/gonzi"
         android:padding="5dp"
